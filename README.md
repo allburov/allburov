@@ -1,8 +1,8 @@
-# Who are all these people?
+# 🌙☕ Late Night Open Source Maintainer
 
-I am a passionate developer interested in a wide range of technologies, including web development, backend, and cloud computing 🧠.
+After work, we grab a coffee and work on open source late into the night - unpaid, fixing issues and keeping things stable. 👨‍💻
 
-I love experimenting with new ideas and contributing to open source projects 💪.
+Your support helps us keep going and spend more time maintaining these projects. 🫶
 
 [![Patreon](https://img.shields.io/badge/Patreon-ABTag-6f42c1?logo=patreon&logoColor=white&labelColor=black)](https://patreon.com/ABTag)
 [![Boosty](https://img.shields.io/badge/Boosty-ABTag-6f42c1?logo=boosty&logoColor=white&labelColor=f15f2c)](https://boosty.to/ABTag)
